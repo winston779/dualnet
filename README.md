@@ -1,6 +1,6 @@
 # Dual Net机场官网地址
 
-最新地址：[getdualnet.com](https://dash.dualnetapp.com/#/register?code=T7yFbByL)
+最新地址：[getdualnet.com](https://dash.getdualnet.com/#/register?code=T7yFbByL)
 
 ## Dual Net机场简介
 
